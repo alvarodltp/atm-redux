@@ -1,10 +1,11 @@
 import React from 'react';
 import './App.css';
+import Expenses from './expenses/Expenses';
 
 const App = () => {
   return (
     <div>
-      App
+      <Expenses />
     </div>
   )
 }

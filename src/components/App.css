@@ -10,4 +10,6 @@ body {
   font-size: 16px;
   line-height: 1.7;
   position: relative;
+  color: white;
+  background: #0C3B97;
 }
